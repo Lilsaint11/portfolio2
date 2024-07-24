@@ -17,6 +17,13 @@ import ProjectCard from './projectCard';
 
 const Projects = () => {
     const projectList = [
+      {
+        "title": "Gadgets Connect",
+        "image": "./images/gadgets.png",
+        "stacks": ["Nextjs","Typescript","tailwindcss"],
+        "webLink": "https://gadget-connect.vercel.app/",
+        "githubLink": "https://github.com/lilsaint11/gadgets-connect"
+      },
         {
           "title": "Geegpay dashboard",
           "image": "./images/geedash.png",
