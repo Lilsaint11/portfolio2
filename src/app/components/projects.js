@@ -19,7 +19,7 @@ const Projects = () => {
     const projectList = [
       {
         "title": "Gadgets Connect",
-        "image": "./images/gadgets.png",
+        "image": "./images/gadgets.PNG",
         "stacks": ["Nextjs","Typescript","tailwindcss"],
         "webLink": "https://gadget-connect.vercel.app/",
         "githubLink": "https://github.com/lilsaint11/gadgets-connect"
@@ -109,33 +109,26 @@ const Projects = () => {
           "githubLink": "https://github.com/lilsaint11/blog-site"
         },
         {
-          "title": "Signup/Signin Form",
-          "image": "./images/signup-form.png",
-          "stacks": ["html","css","PHP","mySQL"],
-          "webLink": "",
-          "githubLink": "https://github.com/lilsaint11/signup-page"
-        },
-        {
           "title": "Ecommerce site",
           "image":"./images/ecomm.png",
           "stacks": ["html","css","javascript"],
           "webLink": "https://luxurycollections.netlify.app",
           "githubLink": "https://github.com/lilsaint11/ecommerce-app"
         },
-        {
-          "title": "Landing Page",
-          "image": "./images/landingpage.png",
-          "stacks": ["html","css","javascript"],
-          "webLink": "https://Gadgets-hub.netlify.app",
-          "githubLink": "https://github.com/lilsaint11/Landing-page"
-        },
-        {
-          "title": "Tiktaktoe Game",
-          "image": "./images/tiktaktoe1.png",
-          "stacks": ["html","css","javascript"],
-          "webLink": "https://stevetiktaktoev2.netlify.app",
-          "githubLink": "https://github.com/lilsaint11/Tik-Tak-Toe"
-        },
+        // {
+        //   "title": "Landing Page",
+        //   "image": "./images/landingpage.png",
+        //   "stacks": ["html","css","javascript"],
+        //   "webLink": "https://Gadgets-hub.netlify.app",
+        //   "githubLink": "https://github.com/lilsaint11/Landing-page"
+        // },
+        // {
+        //   "title": "Tiktaktoe Game",
+        //   "image": "./images/tiktaktoe1.png",
+        //   "stacks": ["html","css","javascript"],
+        //   "webLink": "https://stevetiktaktoev2.netlify.app",
+        //   "githubLink": "https://github.com/lilsaint11/Tik-Tak-Toe"
+        // },
         
       ]
   
